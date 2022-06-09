@@ -1,0 +1,69 @@
+#. Plugin Name of the plugin
+msgid "Evolving Web Sample"
+msgstr ""
+
+#. Description of the plugin
+msgid "This Plugin is a sample project for Evolving Web. It registers two shortcodes ([evolving_web_form] and [evolving_web_entries])."
+msgstr ""
+
+#. Author of the plugin
+msgid "Josefina Lucía Cáceres"
+msgstr ""
+
+#: evolving-web.php:26
+msgid "Thank you for sending us your feedback"
+msgstr "Muchas gracias por dejarnos tus comentarios"
+
+#: evolving-web.php:27
+msgid "An error has occured, please try again soon"
+msgstr "Ocurrió un error, por favor inténtelo nuevamente pronto"
+
+#: evolving-web.php:58
+#: evolving-web.php:139
+#: evolving-web.php:216
+#: evolving-web.php:383
+msgid "First Name"
+msgstr "Nombre"
+
+#: evolving-web.php:59
+#: evolving-web.php:140
+#: evolving-web.php:217
+#: evolving-web.php:384
+msgid "Last Name"
+msgstr "Apellido"
+
+#: evolving-web.php:60
+#: evolving-web.php:141
+#: evolving-web.php:218
+#: evolving-web.php:385
+msgid "Email"
+msgstr "Email"
+
+#: evolving-web.php:61
+#: evolving-web.php:142
+#: evolving-web.php:219
+#: evolving-web.php:386
+msgid "Subject"
+msgstr "Asunto"
+
+#: evolving-web.php:62
+#: evolving-web.php:143
+#: evolving-web.php:220
+msgid "Message"
+msgstr "Mensaje"
+
+#: evolving-web.php:63
+msgid "Send"
+msgstr "Enviar"
+
+#: evolving-web.php:101
+msgid "Custom Form"
+msgstr "Form Personalizado"
+
+#: evolving-web.php:124
+msgid "Entry Data"
+msgstr "Datos de Entrada"
+
+#: evolving-web.php:256
+msgid "Form Entry"
+msgstr "Entrada de Formulario"

@@ -1,0 +1,42 @@
+.evolving-web-ajax-form {
+	max-width: 80%;
+	margin: 0 auto;
+}
+
+.evolving-web-ajax-form label {
+	display: block;
+	margin-bottom: 20px;
+}
+
+.evolving-web-ajax-form input,
+.evolving-web-ajax-form textarea {
+	margin-top: 5px;
+	background: #f5f5f5;
+	border: 1px solid #d1c2bc;
+	box-sizing: border-box;
+	padding: 0 10px;
+	width: 100%;
+	line-height: 35px;
+}
+
+.evolving-web-ajax-form input[type="submit"] {
+	display: block;
+	cursor: pointer;
+	width: 50%;
+	margin: 0 auto;
+	font-weight: 700;
+}
+
+.evolving-web-ajax-form.submission-success label,
+.evolving-web-ajax-form.submission-success input {
+	display: none;
+}
+
+.evolving-web-response-message.success,
+.evolving-web-response-message.error {
+	text-align: center;
+	font-size: 20px;
+	line-height: 3;
+	border: solid;
+	margin: 20px auto;
+}
